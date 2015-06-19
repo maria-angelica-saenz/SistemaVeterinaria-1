@@ -5,12 +5,15 @@
  */
 package iberotec.edu.pe;
 
+import java.util.LinkedList;
+
 /**
  *
  * @author rosa
  */
 public class Ventana1 extends javax.swing.JFrame {
-
+     LinkedList<String> lista= new LinkedList<String>();
+    int i=0;
     /**
      * Creates new form Ventana1
      */
